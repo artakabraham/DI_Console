@@ -27,4 +27,3 @@ namespace DI_Console
             Console.WriteLine($"{scope}: {typeof(T).Name,-19} [ {operation.OperationId}...{message,-23} ]");
     }
 }
-}
